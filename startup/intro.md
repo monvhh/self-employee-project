@@ -18,6 +18,8 @@
 + Public Library
     
     图书分享借阅小程序，扫书的条形码即可分享
+     ![PublicLibray](./assets/publib_1.jpg)
+      ![PublicLibray](./assets/publib_2.jpg)
     微信识别二维码：
     ![PublicLibray](./assets/publiclibrary_code.jpg)
     
