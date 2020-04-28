@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <camera
+    device-position='back'
+    flash='off'
+    binderror='error'
+    style='width: 128px; height: 128px;'
+    frame-size='small'
+  ></camera>
+  <text class='result'>{{result}}</text>
+</view>
