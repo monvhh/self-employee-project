@@ -1,10 +1,14 @@
 # FrontEnd+
 
+探索前端的更多可能
+
 ## 端侧AI（On-device AI)
 
 端：物联网中的任何终端
 
 AI+IoT=AIoT
+
+>先看一个[新闻：5G手机重视AI](https://mp.weixin.qq.com/s/BKzwviY21V7Zf_Ja9RCBYA)
 
 ### 端侧AI的优势
 
@@ -54,13 +58,17 @@ AI+IoT=AIoT
 ![阿里-扫福](./assets/端侧AI_示例_扫福.png)
 ![阿里-识别卡](./assets/端侧AI_示例_卡.png)
 
+### WebAssembly => IoT
+
+> [WebAssembly在物联网的应用](https://mp.weixin.qq.com/s/FFuWbU0WyVAf3n2IoAVn5w)
+>
+> [MDN Webassembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+
 ### 参考
 
 <https://www.qualcomm.cn/on-device-ai/details>
 
 <https://zhuanlan.zhihu.com/p/129876992>
-
-## web应用
 
 ## 前端机器学习
 
@@ -102,11 +110,5 @@ AI+IoT=AIoT
 阿里[Formily](https://formilyjs.org/#/xbS7SW/VbsNsDCe)
 Json Schema=>Code
 JSX Schema=>Code
-
-### WebAssembly => IoT
-
-> <https://mp.weixin.qq.com/s/FFuWbU0WyVAf3n2IoAVn5w>
->
-> [MDN Webassembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
 ## Webxr
