@@ -6,7 +6,7 @@
 
    Next 个人图书馆开发
 
-   Next 基于Community的组织内部分享借书，Commity内部的联系方式。
+   Next 基于Community的组织内部分享借书，Community内部的联系方式。
 
 ### Project.2 魔女混混 公众号
   
